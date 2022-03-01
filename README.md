@@ -15,10 +15,11 @@ git clone https://github.com/EmrhSGLM/kodluyoruzilkrepo.git
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
-
+```
 cd kodluyoruzilkrepo
 
 code .
+```
 
 # Contributing
 
