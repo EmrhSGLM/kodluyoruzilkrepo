@@ -1,6 +1,5 @@
 # kodluyoruzilkrepo
-<<<<<<< HEAD
-=======
+
 
 ![image](https://user-images.githubusercontent.com/93257346/156168845-150b0572-a0c0-430a-bd9a-a81ec2b129bb.png)
 
@@ -30,4 +29,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 
 [MIT](https://choosealicense.com/licenses/mit/)
->>>>>>> b5f2443b9de91515b127ea4c07119f38f5038f5e
